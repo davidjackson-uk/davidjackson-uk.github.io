@@ -1,3 +1,4 @@
+title: David Jackson
 ## About me
 I am a PhD researcher based in the  [Decent Work and Productivity Research Centre](https://www.mmu.ac.uk/decent-work-and-productivity/) at Manchester Metropolitan University in the UK.
 
