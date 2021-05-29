@@ -13,4 +13,5 @@ My research focuses on exploring how Big Data and Artificial Intelligence can be
 
 ## How to contact me
 The easiest way to contact me is by email at david.jackson6@stu.mmu.ac.uk 
+
 ___
