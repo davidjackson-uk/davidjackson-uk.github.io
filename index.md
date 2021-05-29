@@ -1,5 +1,5 @@
 # How Big Data can inform People Management
-<img src="https://github.com/davidjackson-uk/davidjackson-uk.github.io/blob/main/HeadshouldersWALL.jpg" align="left" height="48" width="48" >
+<img src="https://github.com/davidjackson-uk/davidjackson-uk.github.io/blob/main/HeadshouldersWALL.jpg" align="left" height="100">
 
 ## About me
 I am a PhD researcher based in the  [Decent Work and Productivity Research Centre](https://www.mmu.ac.uk/decent-work-and-productivity/) at Manchester Metropolitan University in the UK.
