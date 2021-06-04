@@ -1,11 +1,12 @@
 # How Big Data can inform People Management
 
-<img src="HeadshouldersWALL.jpg" align="left" height="100" alt="" />
+
 
 ## About me
 I am a PhD researcher based in the  [Decent Work and Productivity Research Centre](https://www.mmu.ac.uk/decent-work-and-productivity/) at Manchester Metropolitan University in the UK.
 
-
+<img src="HeadshouldersWALL.jpg" align="left" height="100" alt="" />
+<p></p>
 
 
 
