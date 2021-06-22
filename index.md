@@ -1,37 +1,19 @@
-# Using data to inform people management decisions
+# Using Data to Inform People Management Decisions
 
-You can use the [editor on GitHub](https://github.com/davidjackson-uk/davidjackson-uk.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+My name is David Jackson. I am a PhD student in the Decent Work and Productivity research centre at Manchester Metropolitan University in the UK.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research is focussed on how managers use data to inform their people management decisions. The setting I am undertaking my research in is a high security (Category A) prison in the UK. I want to find out how prison managers use the increasing volumes and types of data available to them in their management of and support for prison officers and other staff. 
 
-### Markdown
+## Why am I interested in this?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This area of research brings together two of my long term passions. The first is the complex and ever fascinating role of the manager in organisations. Having spent 20 years as a senior manager and HR professional in the UK Civil Service, National Health Service and Higher Education sector, I have had an opportunity to experience working life in hierarchical and managerial organisations. My other passion is technology and its impacts on the world of work through the adoption of new recording technologies, Big Data and Articficial Intelligence. I feel incredibly lucky to be alive and able to undertake research during this 'Fourth Industrial Revolution'. 
 
-```markdown
-Syntax highlighted code block
+These two areas - people management and techology - intersect to prompt questions about the role of personal discretion and judgement in an increasingly quantified workplace. The human element of the management challege also means that there are questions of values, equality and wellbeing  to explore.
 
-# Header 1
-## Header 2
-### Header 3
+## What approach am I taking to my research?
 
-- Bulleted
-- List
+I am using Grounded Theory as developed by Barney Glaser and Anselm Strauss in the 1960s. 
 
-1. Numbered
-2. List
+## How can you contact me?
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/davidjackson-uk/davidjackson-uk.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You can email me at david.jackson6@stu.mmu.ac.uk 
