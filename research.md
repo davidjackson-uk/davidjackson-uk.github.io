@@ -4,7 +4,7 @@
 
 My name is David Jackson. I am a PhD student in the Decent Work and Productivity research centre at Manchester Metropolitan University in the UK.
 
-My research is focussed on how managers use data to inform their people management decisions. The setting I am undertaking my research in is a high security (Category A) prison in the UK. I want to find out how prison managers use the increasing volumes and types of data available to them in their management of and support for prison officers and other staff. 
+> My research is focussed on how managers use data to inform their people management decisions. The setting I am undertaking my research in is a high security (Category A) prison in the UK. I want to find out how prison managers use the increasing volumes and types of data available to them in their management of and support for prison officers and other staff. 
 
 ## Why am I interested in this?
 
