@@ -6,7 +6,7 @@ I am using Grounded Theory as developed by Barney Glaser and Anselm Strauss to u
 
 ## Technology
 
-I am taking the opportunities presented by my PhD research project to develop my technology and coding skills. I am prioritising the use of Free and Open Source (FOSS) software and code in the development of my research, my analysis and my presentation. You can see a one page overview of how I am using FOSS [here](/images/foss.pdf).
+I am taking the opportunities presented by my PhD research project to develop my technology and coding skills. I am prioritising the use of Free and Open Source (FOSS) software and code in the development of my research, my analysis and my presentation. You can see a one page overview of how I am using FOSS [here](my_academic_workflow.pdf).
 
 
 ### Contact
