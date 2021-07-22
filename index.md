@@ -1,36 +1,13 @@
-## Grounded Theory PhD Research
+# Grounded Theory PhD Research
 
-You can use the [editor on GitHub](https://github.com/davidjackson-uk/davidjackson-uk.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my PhD research website. I am interested in how managers use data to inform their people management decision making in organisations. I am particularly interested in how the combination of sensor technology, big data and machine processing developments impact people management decisions.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am using Grounded Theory as developed by Barney Glaser and Anselm Strauss to undertake my research in a prison setting in the UK. 
 
-### Markdown
+## Technology
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am taking the opportunities presented by my PhD research project to develop my technology and coding skills. I am prioritising the use of Free and Open Source (FOSS) software and code in the development of my research, my analysis and my presentation. You can see a one page overview of how I am using FOSS [here](/images/foss.pdf).
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/davidjackson-uk/davidjackson-uk.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contact
 
