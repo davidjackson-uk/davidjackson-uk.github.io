@@ -12,4 +12,5 @@ You can see a one page overview of how I am using FOSS [here](my_academic_workfl
 
 # Contact
 
-Please feel free to contact me at 20023159@stu.mmu.ac.uk 
+Please feel free to contact me at [20023159@stu.mmu.ac.uk](mailto:20023159@stu.mmu.ac.uk)
+
