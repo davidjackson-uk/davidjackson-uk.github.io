@@ -1,4 +1,4 @@
-# Grounded Theory PhD Research
+# My Research
 
 Welcome to my PhD research website. I am interested in **how managers use data to inform their people management decision making in organisations**. I am particularly interested in how the combination of sensor technology, big data and machine processing developments impact people management decisions. I am conducting my research at the *Decent Work and Productivity Research Centre* within Manchester Metropolitan University.
 
