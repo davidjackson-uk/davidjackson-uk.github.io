@@ -14,3 +14,4 @@ You can see a one page overview of how I am using FOSS [here](my_academic_workfl
 
 Please feel free to contact me at [20023159@stu.mmu.ac.uk](mailto:20023159@stu.mmu.ac.uk)
 
+![84683825](https://user-images.githubusercontent.com/84683825/177741708-ec9e6daa-d862-4aca-8be0-5b80a32c0c8a.png)
